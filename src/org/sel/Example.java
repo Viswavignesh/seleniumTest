@@ -10,5 +10,9 @@ public class Example {
 		System.out.println("hari");
 
 	}
+	private void student3() {
+		System.out.println("vetri");
+
+	}
 
 }
