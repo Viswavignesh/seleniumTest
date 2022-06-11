@@ -6,5 +6,9 @@ public class Example {
 		System.out.println("sandy");
 
 	}
+	private void student2() {
+		System.out.println("hari");
+
+	}
 
 }
