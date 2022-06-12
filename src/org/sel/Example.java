@@ -14,5 +14,9 @@ public class Example {
 		System.out.println("vetri");
 
 	}
+	private void student4() {
+		System.out.println("surya");
+
+	}
 
 }
